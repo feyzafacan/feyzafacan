@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hi ! My name is Feyza.<br>👩🏻‍🎓 I’m a computer engineering student at Polito in Italy.<br>💻  I’m learned HTML, CSS and JavaScript. I am learning React now!<br>👩‍💻 I have been interested in web development for a long time<br>       and I am working hard for it.<br>
+👋🏻 Hi ! My name is Feyza.<br>👩🏻‍🎓 I’m a computer engineering student at Polito in Italy.<br>💻  I learned HTML, CSS and JavaScript. I am learning React now!<br>👩‍💻 I have been interested in web development for a long time<br>       and I am working hard for it.<br>
 
 
 ## 🌐 Socials:
