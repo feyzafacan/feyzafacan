@@ -11,6 +11,7 @@
 - **Email**: feyzafacan@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/feyza-afacan-3837161b0/)
 - [GitHub](https://github.com/feyzafacan)
+- [Medium Blog](https://medium.com/@feyzafacan)
 
 ### 💻 Technologies & Tools:
 - **Programming Languages**: Python, C, JavaScript
