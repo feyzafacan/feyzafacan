@@ -9,8 +9,8 @@
 
   ### 📫 How to reach me:
 - **Email**: feyzafacan@gmail.com
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/feyza-afacan-3837161b0/)
-- [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/feyzafacan)
+- [LinkedIn](https://www.linkedin.com/in/feyza-afacan-3837161b0/)
+- [GitHub](https://github.com/feyzafacan)
 
 ### 💻 Technologies & Tools:
 - **Programming Languages**: Python, C, JavaScript
