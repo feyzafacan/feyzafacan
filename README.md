@@ -5,7 +5,7 @@
 - 🌱 Currently focusing on improving my skills in **Python**, **C**, and **JavaScript** while exploring full-stack development.
 - 💡 Actively working on both course-related and personal projects to enhance my problem-solving abilities and technical expertise.
 - 💼 Open to internship opportunities in **software development** to gain more hands-on experience.
-- 🌍 Multilingual: Fluent in **English**, **Italian**, and **Turkish**.
+- 🌍 Multilingual: **Turkish**, **English**, **Italian**.
 
   ### 📫 How to reach me:
 - **Email**: feyzafacan@gmail.com
