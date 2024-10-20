@@ -9,7 +9,7 @@
 
   ### 📫 How to reach me:
 - **Email**: feyzafacan@gmail.com
-- [LinkedIn]([https://www.linkedin.com/in/feyza](https://www.linkedin.com/in/feyza-afacan-3837161b0/))
+- [LinkedIn](https://www.linkedin.com/in/feyza-afacan-3837161b0/)
 - [GitHub](https://github.com/feyzafacan)
 
 ### 💻 Technologies & Tools:
